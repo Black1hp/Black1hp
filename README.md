@@ -1,4 +1,3 @@
-# 💫 About Me:
 💻 Full Stack Developer by day, Hacker by night — coffee fuels both lives.<br>🧠 I speak MERN, Laravel, Vue, Python, Java... and sometimes in hex.<br>⚔️ Your API might be RESTful, but I’m not.<br>💡 Real innovation starts after something breaks — and I’m not afraid to break things first.<br>
 
 
