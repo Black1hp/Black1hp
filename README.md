@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hey there, I’m Black1HP! 💻</h1>
+  <h1>👋 Hey there, I’m Black 1hp! 💻</h1>
   <p>A tech enthusiast with a passion for breaking things (ethically, of course) and building them back stronger.</p>
 </div>
 
