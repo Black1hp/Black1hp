@@ -1,18 +1,23 @@
-# 💫 About Me
+## 💫 About Me
 
 Tech enthusiast with a slightly dangerous obsession with cybersecurity.  
-I tinker with reverse engineering, malware analysis, digital forensics, and the occasional AI experiment — basically, if it’s complex and geeky, I’m all in.  
-I develop websites... and then try to ethically break them — because what's the fun in leaving them untested?
+I tinker with reverse engineering, malware analysis, digital forensics, and the occasional AI experiment — if it’s complex and geeky, I’m all in.  
+I develop websites... and then try to ethically break them — because what’s the point if they’re not battle-tested?
+
 Proud Egyptian 🇪🇬 and Muslim ☪️ — caffeine is optional, but curiosity is mandatory.
+
 ---
+
 💻 Full Stack Developer by day, Hacker by night — coffee fuels both lives.  
 🧠 Fluent in MERN, Laravel, Vue, Python, Java... and occasionally hex.  
 ⚔️ Your API might be RESTful, but I’m not.  
 💡 Real innovation begins where things break — and I’m not afraid to be the one who breaks them.
+
 ---
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0dqs)
+
 
 
 # 💻 Tech Stack:
