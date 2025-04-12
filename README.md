@@ -30,9 +30,6 @@ I’m a **Full Stack Developer by day** and a **Cybersecurity Enthusiast by nigh
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Black1hp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Black1hp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Black1hp&icon=0&color=11)](https://visitcount.itsvg.in)
 
