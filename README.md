@@ -1,19 +1,19 @@
-## 💫 About Me
-
-Tech enthusiast with a slightly dangerous obsession with cybersecurity.  
-I tinker with reverse engineering, malware analysis, digital forensics, and the occasional AI experiment — if it’s complex and geeky, I’m all in.  
-I develop websites... and then try to ethically break them — because what’s the point if they’re not battle-tested?
-
-Proud Egyptian 🇪🇬 and Muslim ☪️ — caffeine is optional, but curiosity is mandatory.
+<div align="center">
+  <h1>👋 Hey there, I’m Black1HP! 💻</h1>
+  <p>A tech enthusiast with a passion for breaking things (ethically, of course) and building them back stronger.</p>
+</div>
 
 ---
 
-💻 Full Stack Developer by day, Hacker by night — coffee fuels both lives.  
-🧠 Fluent in MERN, Laravel, Vue, Python, Java... and occasionally hex.  
-⚔️ Your API might be RESTful, but I’m not.  
-💡 Real innovation begins where things break — and I’m not afraid to be the one who breaks them.
+## 🌟 About Me
+I’m a **Full Stack Developer by day** and a **Cybersecurity Enthusiast by night**—fueled by coffee, curiosity, and a love for complex, geeky challenges. I specialize in reverse engineering, malware analysis, digital forensics, and the occasional AI experiment. I build websites with modern frameworks, then battle-test them to ensure they’re secure. If it’s tech and it’s intricate, I’m all in!  
+
+- 🌍 Proudly Egyptian 🇪🇬 and Muslim ☪️  
+- ⚡ Motto: *Real innovation begins where things break—and I’m not afraid to break them first.*  
+- ⚔️ Your API might be RESTful, but I’m not!  
 
 ---
+
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0dqs)
